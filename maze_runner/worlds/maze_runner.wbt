@@ -4,7 +4,7 @@ WorldInfo {
     "Benchmark objective: "
     "move to the center of the maze as quickly as possible."
   ]
-  title "Maze Runner"
+  title "Maze Runner Benchmark"
   window "maze_runner"
   basicTimeStep 16
   FPS 50

@@ -1,0 +1,5 @@
+dockerCompose:theia:webots-project/controllers/sprinter/
+
+type: benchmark
+
+world: worlds/humanoid_sprint.wbt

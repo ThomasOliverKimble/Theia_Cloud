@@ -1,0 +1,5 @@
+dockerCompose:theia:webots-project/controllers/avoid_obstacles/
+
+type: benchmark
+
+world: worlds/obstacle_avoidance.wbt

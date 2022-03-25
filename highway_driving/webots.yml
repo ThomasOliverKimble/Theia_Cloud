@@ -1,5 +1,0 @@
-dockerCompose:theia:webots-project/controllers/highway_driving_benchmark/
-
-type: benchmark
-
-world: worlds/highway_driving.wbt

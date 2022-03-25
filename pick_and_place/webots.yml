@@ -1,5 +1,2 @@
 dockerCompose:theia:webots-project/controllers/pick_and_place/
-
 type: benchmark
-
-world: worlds/pick_and_place.wbt

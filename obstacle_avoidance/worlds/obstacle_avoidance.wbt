@@ -1845,7 +1845,7 @@ DEF PINBOARD Solid {
         baseColor 0.8 0.8 0.8
         baseColorMap ImageTexture {
           url [
-            "https://raw.githubusercontent.com/cyberbotics/webots/develop/projects/samples/robotbenchmark/obstacle_avoidance//worlds/textures/wood.jpg"
+            "https://raw.githubusercontent.com/cyberbotics/webots/develop/projects/samples/robotbenchmark/obstacle_avoidance/worlds/textures/wood.jpg"
           ]
         }
         roughness 0.5
@@ -2004,7 +2004,7 @@ DEF COAT_PEGS Solid {
         baseColor 0.8 0.8 0.8
         baseColorMap ImageTexture {
           url [
-            "https://raw.githubusercontent.com/cyberbotics/webots/develop/projects/samples/robotbenchmark/obstacle_avoidance//worlds/textures/lightwood.jpg"
+            "https://raw.githubusercontent.com/cyberbotics/webots/develop/projects/samples/robotbenchmark/obstacle_avoidance/worlds/textures/lightwood.jpg"
           ]
         }
         roughness 0.5
@@ -2027,7 +2027,7 @@ DEF COAT_PEGS Solid {
         baseColor 0.8 0.8 0.8
         baseColorMap ImageTexture {
           url [
-            "https://raw.githubusercontent.com/cyberbotics/webots/develop/projects/samples/robotbenchmark/obstacle_avoidance//worlds/textures/wood.jpg"
+            "https://raw.githubusercontent.com/cyberbotics/webots/develop/projects/samples/robotbenchmark/obstacle_avoidance/worlds/textures/wood.jpg"
           ]
         }
         roughness 0.5

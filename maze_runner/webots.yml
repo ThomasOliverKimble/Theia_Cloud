@@ -2,4 +2,5 @@ dockerCompose:theia:webots-project/controllers/move_in_maze/
 
 type: benchmark
 
-world: worlds/maze_runner.wbt
+worlds:
+  - file: worlds/maze_runner.wbt

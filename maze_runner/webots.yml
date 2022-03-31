@@ -1,2 +1,3 @@
 dockerCompose:theia:webots-project/controllers/move_in_maze/
 type: benchmark
+init: apt install -y python3-numpy

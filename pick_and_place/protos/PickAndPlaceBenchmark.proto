@@ -9,7 +9,7 @@ PROTO PickAndPlaceBenchmark [
 ]
 {
   Robot {
-    name "Instructions"
+    name "Pick and Place Benchmark"
     controller "pick_and_place_benchmark"
     supervisor TRUE
     window IS window

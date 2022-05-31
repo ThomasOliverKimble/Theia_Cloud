@@ -447,6 +447,7 @@ DEF CONVEYOR_BELT Robot {
     ]
   }
   controller "move_conveyor_belt"
+  window "<none>"
 }
 DEF MACHINERY Solid {
   translation 1.3026953 -2.6462761 0.1

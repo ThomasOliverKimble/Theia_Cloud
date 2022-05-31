@@ -8,6 +8,7 @@ PROTO MazeRunnerBenchmark [
 ]
 {
   Robot {
+    name "Maze Runner Benchmark"
     controller "supervisor"
     supervisor TRUE
     window IS window

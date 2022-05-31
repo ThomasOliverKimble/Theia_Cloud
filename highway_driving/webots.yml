@@ -1,0 +1,2 @@
+dockerCompose:theia:webots-project/controllers/highway-driving/
+type: benchmark

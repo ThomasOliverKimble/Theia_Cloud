@@ -1,5 +1,6 @@
 #VRML_SIM R2022b utf8
 WorldInfo {
+  title "Thymio2"
   basicTimeStep 10
   contactProperties [
     ContactProperties {

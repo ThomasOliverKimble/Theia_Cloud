@@ -1,9 +1,0 @@
-*~
-*.pyc
-._*
-.DS_Store
-.directory
-docs/*/_build
-dashel/
-enki/
-*.qm

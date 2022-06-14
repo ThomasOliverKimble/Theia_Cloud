@@ -1,7 +1,9 @@
 #VRML_SIM R2022b utf8
 WorldInfo {
+  info [
+    "Thymio is an open-source educational robot designed by researchers from the EPFL, in collaboration with ECAL, and produced by Mobsya, a nonprofit association whose mission is to offer comprehensive, engaging STEAM journeys to learners of all ages."
+  ]
   title "Thymio2"
-  info "Thymio is an open-source educational robot designed by researchers from the EPFL, in collaboration with ECAL, and produced by Mobsya, a nonprofit association whose mission is to offer comprehensive, engaging STEAM journeys to learners of all ages."
   basicTimeStep 10
   contactProperties [
     ContactProperties {
@@ -13,8 +15,8 @@ WorldInfo {
   ]
 }
 Viewpoint {
-  orientation 0.21752271602471446 0.10007385193918365 -0.9709114749405764 2.3014019856912595
-  position 0.6265186357733588 0.8641592396238201 0.5326430835911365
+  orientation 0.24695371868733185 0.0821642259374424 -0.9655376226758847 2.5199173935643633
+  position 2.5449230542842822 1.9859412874339921 1.739210412070418
   follow "Thymio II"
 }
 TexturedBackground {

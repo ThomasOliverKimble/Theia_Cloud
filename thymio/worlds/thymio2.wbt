@@ -3,7 +3,7 @@ WorldInfo {
   info [
     "Thymio is an open-source educational robot designed by researchers from the EPFL, in collaboration with ECAL, and produced by Mobsya, a nonprofit association whose mission is to offer comprehensive, engaging STEAM journeys to learners of all ages."
   ]
-  title "Thymio2"
+  title "Thymio2 Control"
   basicTimeStep 10
   contactProperties [
     ContactProperties {
